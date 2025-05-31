@@ -39,8 +39,13 @@ The program allows the user to:
 🧹 **Clear the content** of the file without deleting it
 
 *OUTPUT*:
+
 ![Image](https://github.com/user-attachments/assets/3378e1aa-17ca-4a4c-992f-d5945b3045c9)
+
 ![Image](https://github.com/user-attachments/assets/8874bbec-ebaa-4457-a8a5-a30d044e8d91)
+
 ![Image](https://github.com/user-attachments/assets/515daa3c-0d52-4221-a917-d5e2c9765289)
+
 ![Image](https://github.com/user-attachments/assets/8f002b54-26fc-4704-a4a6-4dd2122a2a22)
+
 ![Image](https://github.com/user-attachments/assets/76fe0c02-754e-4a33-abb4-93784c7440cb)
