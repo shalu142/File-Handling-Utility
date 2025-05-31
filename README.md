@@ -27,8 +27,13 @@ The program is implemented using standard Java libraries, including File, Scanne
 The program allows the user to:
 
 📁 **Create a new text file**
+
 ✍️ **Write text to a file** with multi-line input (ends with "end")
+
 📖 **Read the content** of the file and display it (indicates if the file is empty)
+
 🔁 **Modify existing content** by replacing a specific word
+
 🗑️ **Delete the entire file**
+
 🧹 **Clear the content** of the file without deleting it
