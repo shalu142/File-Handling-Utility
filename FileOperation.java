@@ -23,29 +23,17 @@ public class FileOperation {
                 int choice = Integer.parseInt(scanner.nextLine().trim());
 
                 switch (choice) {
-                    case 1:
-                        createFile();
-                        break;
-                    case 2:
-                        writeOption();
-                        break;
-                    case 3:
-                        readFromFile();
-                        break;
-                    case 4:
-                        modifyOption();
-                        break;
-                    case 5:
-                        deleteFile();
-                        break;
-                    case 6:
-                        clearFileContent();
-                        break;
-                    case 7:
+                    case 1 -> createFile();
+                    case 2 -> writeOption();
+                    case 3 -> readFromFile();
+                    case 4 -> modifyOption();
+                    case 5 -> deleteFile();
+                    case 6 -> clearFileContent();
+                    case 7 -> {
                         System.out.println("Exiting the program.");
                         return;
-                    default:
-                        System.out.println("Invalid choice. Please enter a number from 1 to 7.");
+                    }
+                    default -> System.out.println("Invalid choice. Please enter a number from 1 to 7.");
                 }
             }
         } catch (IOException e) {
