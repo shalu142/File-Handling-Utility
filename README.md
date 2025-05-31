@@ -1,9 +1,17 @@
+#File-Handling-Utility
+
 *COMPANY*: CODTECH IT SOLUTIONS
+
 *NAME*: SHALU
-INTERN ID: CT06DF405
-DOMAIN: JAVA PROGRAMMING
-DURATION: 6 WEEKS
-MENTOR: NEELS SANTHOSH KUMAR
+
+*INTERN ID*: CT06DF405
+
+*DOMAIN*: JAVA PROGRAMMING
+
+*DURATION*: 6 WEEKS
+
+*MENTOR*: NEELS SANTHOSH KUMAR
+
 DESCRITON: The FileOperation is a Java-based console application designed to perform basic text file operations in a user-friendly, menu-driven manner. This project demonstrates how Java handles file I/O (input and output) through practical and interactive use cases. It serves as an educational tool for beginners and intermediate programmers to understand the fundamentals of file management in Java using the java.io package and related classes.
 
 At its core, the application allows the user to interact with text files without requiring any graphical interface or external libraries. Upon launching, the user is presented with a simple menu that includes multiple options: creating a file, writing to a file, reading file contents, modifying the content by replacing specific words, clearing file contents without deleting the file, and deleting the entire file. These operations are selected by entering a number corresponding to each action, making it intuitive to use even for those new to programming.
